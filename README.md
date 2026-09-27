@@ -1,2 +1,3 @@
 # Mostafa-Website
-index.html style.css script.js
+<link rel="stylesheet" href="style.css">
+<script src="script.js"></script>
